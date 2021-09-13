@@ -10,5 +10,5 @@ for i in range(commitNos):
         os.system('git push')
         counter -= 5000
 
-
+os.system('git push')
 # inspired by Virej Dasani! Check them out :)
